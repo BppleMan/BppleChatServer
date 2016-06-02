@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<user> 
+    <userinfo> 
+        <username>bppleman</username>  
+        <password>bppleman</password>  
+        <userstate>offline</userstate> 
+    </userinfo>  
+    <friendlist> 
+        <friendname>admin</friendname>  
+        <friendname>lesleyteng</friendname> 
+    </friendlist> 
+</user>

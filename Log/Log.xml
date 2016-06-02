@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<log> 
+    <logstring/>  
+    <logstring date="2016-05-31" time="00:40:06">admin可以登录</logstring>  
+    <logstring date="2016-05-31" time="00:40:06">成功向admin发送好友列表</logstring>  
+    <logstring date="2016-05-31" time="00:40:06">hello</logstring>  
+    <logstring date="2016-05-31" time="00:40:06">helloend</logstring>  
+    <logstring date="2016-05-31" time="00:40:15">bppleman可以登录</logstring>  
+    <logstring date="2016-05-31" time="00:40:15">成功向bppleman发送好友列表</logstring>  
+    <logstring date="2016-05-31" time="00:40:16">hello</logstring>  
+    <logstring date="2016-05-31" time="00:40:16">helloend</logstring>  
+    <logstring date="2016-05-31" time="00:40:30">admin Socket[addr=/127.0.0.1,port=49719,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:40:30">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:123 }</logstring>  
+    <logstring date="2016-05-31" time="00:40:30">admin Socket[addr=/127.0.0.1,port=49720,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:40:30">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:123 }</logstring>  
+    <logstring date="2016-05-31" time="00:40:33">bppleman Socket[addr=/127.0.0.1,port=49723,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:40:33">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:234 }</logstring>  
+    <logstring date="2016-05-31" time="00:40:33">bppleman Socket[addr=/127.0.0.1,port=49724,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:40:33">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:234 }</logstring>  
+    <logstring date="2016-05-31" time="00:40:36">admin Socket[addr=/127.0.0.1,port=49719,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:40:36">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:123 }</logstring>  
+    <logstring date="2016-05-31" time="00:40:36">admin Socket[addr=/127.0.0.1,port=49720,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:40:36">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:123 }</logstring>  
+    <logstring date="2016-05-31" time="00:40:38">admin Socket[addr=/127.0.0.1,port=49719,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:40:38">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:233 }</logstring>  
+    <logstring date="2016-05-31" time="00:40:38">admin Socket[addr=/127.0.0.1,port=49720,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:40:38">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:233 }</logstring>  
+    <logstring date="2016-05-31" time="00:40:39">admin Socket[addr=/127.0.0.1,port=49719,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:40:39">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:sfsffsafsad }</logstring>  
+    <logstring date="2016-05-31" time="00:40:39">admin Socket[addr=/127.0.0.1,port=49720,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:40:39">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:sfsffsafsad }</logstring>  
+    <logstring date="2016-05-31" time="00:40:41">bppleman Socket[addr=/127.0.0.1,port=49723,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:40:41">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:ffsadhjksdf }</logstring>  
+    <logstring date="2016-05-31" time="00:40:42">bppleman Socket[addr=/127.0.0.1,port=49724,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:40:42">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:ffsadhjksdf }</logstring>  
+    <logstring date="2016-05-31" time="00:40:42">bppleman Socket[addr=/127.0.0.1,port=49723,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:40:42">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:hjklsaf }</logstring>  
+    <logstring date="2016-05-31" time="00:40:42">bppleman Socket[addr=/127.0.0.1,port=49724,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:40:42">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:hjklsaf }</logstring>  
+    <logstring date="2016-05-31" time="00:40:43">bppleman Socket[addr=/127.0.0.1,port=49723,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:40:43">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:hkljsaf }</logstring>  
+    <logstring date="2016-05-31" time="00:40:43">bppleman Socket[addr=/127.0.0.1,port=49724,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:40:43">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:hkljsaf }</logstring>  
+    <logstring date="2016-05-31" time="00:40:44">bppleman Socket[addr=/127.0.0.1,port=49723,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:40:44">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:khjlsfda }</logstring>  
+    <logstring date="2016-05-31" time="00:40:44">bppleman Socket[addr=/127.0.0.1,port=49724,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:40:44">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:khjlsfda }</logstring>  
+    <logstring date="2016-05-31" time="00:40:45">bppleman Socket[addr=/127.0.0.1,port=49723,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:40:45">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:hklsfda }</logstring>  
+    <logstring date="2016-05-31" time="00:40:45">bppleman Socket[addr=/127.0.0.1,port=49724,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:40:45">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:hklsfda }</logstring>  
+    <logstring date="2016-05-31" time="00:40:46">bppleman Socket[addr=/127.0.0.1,port=49723,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:40:46">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:hksfad }</logstring>  
+    <logstring date="2016-05-31" time="00:40:46">bppleman Socket[addr=/127.0.0.1,port=49724,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:40:46">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:hksfad }</logstring>  
+    <logstring date="2016-05-31" time="00:41:03">bppleman Socket[addr=/127.0.0.1,port=49723,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:41:03">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:hl;hjhk }</logstring>  
+    <logstring date="2016-05-31" time="00:41:03">bppleman Socket[addr=/127.0.0.1,port=49724,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:41:03">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:hl;hjhk }</logstring>  
+    <logstring date="2016-05-31" time="00:41:06">admin Socket[addr=/127.0.0.1,port=49719,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:41:06">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:12345 }</logstring>  
+    <logstring date="2016-05-31" time="00:41:06">admin Socket[addr=/127.0.0.1,port=49720,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:41:06">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:12345 }</logstring>  
+    <logstring date="2016-05-31" time="00:41:37">下线</logstring>  
+    <logstring date="2016-05-31" time="00:41:39">bppleman已下线</logstring>  
+    <logstring date="2016-05-31" time="00:41:42">java.net.BindException: Address already in use</logstring>  
+    <logstring date="2016-05-31" time="00:41:42">at java.net.PlainSocketImpl.socketBind(Native Method)</logstring>  
+    <logstring date="2016-05-31" time="00:41:42">at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:387)</logstring>  
+    <logstring date="2016-05-31" time="00:41:42">at java.net.ServerSocket.bind(ServerSocket.java:375)</logstring>  
+    <logstring date="2016-05-31" time="00:41:42">at java.net.ServerSocket.&lt;init&gt;(ServerSocket.java:237)</logstring>  
+    <logstring date="2016-05-31" time="00:41:42">at java.net.ServerSocket.&lt;init&gt;(ServerSocket.java:128)</logstring>  
+    <logstring date="2016-05-31" time="00:41:42">at listen.ListenClientSocket.&lt;init&gt;(ListenClientSocket.java:33)</logstring>  
+    <logstring date="2016-05-31" time="00:41:42">at main.BChatServer.&lt;init&gt;(BChatServer.java:33)</logstring>  
+    <logstring date="2016-05-31" time="00:41:42">at main.BChatServer.main(BChatServer.java:43)</logstring>  
+    <logstring date="2016-05-31" time="00:41:42">java.net.BindException: Address already in use</logstring>  
+    <logstring date="2016-05-31" time="00:41:42">at java.net.PlainSocketImpl.socketBind(Native Method)</logstring>  
+    <logstring date="2016-05-31" time="00:41:42">at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:387)</logstring>  
+    <logstring date="2016-05-31" time="00:41:43">at java.net.ServerSocket.bind(ServerSocket.java:375)</logstring>  
+    <logstring date="2016-05-31" time="00:41:43">at java.net.ServerSocket.&lt;init&gt;(ServerSocket.java:237)</logstring>  
+    <logstring date="2016-05-31" time="00:41:43">at java.net.ServerSocket.&lt;init&gt;(ServerSocket.java:128)</logstring>  
+    <logstring date="2016-05-31" time="00:41:43">at talkservice.TalkServer.&lt;init&gt;(TalkServer.java:22)</logstring>  
+    <logstring date="2016-05-31" time="00:41:43">at main.BChatServer.&lt;init&gt;(BChatServer.java:36)</logstring>  
+    <logstring date="2016-05-31" time="00:41:43">at main.BChatServer.main(BChatServer.java:43)</logstring>  
+    <logstring date="2016-05-31" time="00:42:05">admin可以登录</logstring>  
+    <logstring date="2016-05-31" time="00:42:05">成功向admin发送好友列表</logstring>  
+    <logstring date="2016-05-31" time="00:42:06">hello</logstring>  
+    <logstring date="2016-05-31" time="00:42:06">helloend</logstring>  
+    <logstring date="2016-05-31" time="00:42:10">下线</logstring>  
+    <logstring date="2016-05-31" time="00:42:12">下线</logstring>  
+    <logstring date="2016-05-31" time="00:42:13">admin已下线</logstring>  
+    <logstring date="2016-05-31" time="00:42:14">admin已下线</logstring>  
+    <logstring date="2016-05-31" time="00:42:23">admin可以登录</logstring>  
+    <logstring date="2016-05-31" time="00:42:23">成功向admin发送好友列表</logstring>  
+    <logstring date="2016-05-31" time="00:42:23">org.dom4j.DocumentException: Error on line 1 of document file:///Users/BppleMan/Documents/workspace/BChatService/Source/admin/UserInfo.xml : 文件提前结束。 Nested exception: 文件提前结束。</logstring>  
+    <logstring date="2016-05-31" time="00:42:23">at org.dom4j.io.SAXReader.read(SAXReader.java:482)</logstring>  
+    <logstring date="2016-05-31" time="00:42:23">at org.dom4j.io.SAXReader.read(SAXReader.java:264)</logstring>  
+    <logstring date="2016-05-31" time="00:42:23">at datamanege.DataManege.getUserFriends(DataManege.java:57)</logstring>  
+    <logstring date="2016-05-31" time="00:42:23">at friendstate.SendFriendInfo.run(SendFriendInfo.java:52)</logstring>  
+    <logstring date="2016-05-31" time="00:42:23">Nested exception:</logstring>  
+    <logstring date="2016-05-31" time="00:42:23">org.xml.sax.SAXParseException; systemId: file:///Users/BppleMan/Documents/workspace/BChatService/Source/admin/UserInfo.xml; lineNumber: 1; columnNumber: 1; 文件提前结束。</logstring>  
+    <logstring date="2016-05-31" time="00:42:23">at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:203)</logstring>  
+    <logstring date="2016-05-31" time="00:42:23">at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:177)</logstring>  
+    <logstring date="2016-05-31" time="00:42:23">at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:441)</logstring>  
+    <logstring date="2016-05-31" time="00:42:23">at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:368)</logstring>  
+    <logstring date="2016-05-31" time="00:42:23">at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1437)</logstring>  
+    <logstring date="2016-05-31" time="00:42:23">at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:1019)</logstring>  
+    <logstring date="2016-05-31" time="00:42:23">at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)</logstring>  
+    <logstring date="2016-05-31" time="00:42:23">at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:117)</logstring>  
+    <logstring date="2016-05-31" time="00:42:23">at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)</logstring>  
+    <logstring date="2016-05-31" time="00:42:23">at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)</logstring>  
+    <logstring date="2016-05-31" time="00:42:23">at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)</logstring>  
+    <logstring date="2016-05-31" time="00:42:23">at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)</logstring>  
+    <logstring date="2016-05-31" time="00:42:23">at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)</logstring>  
+    <logstring date="2016-05-31" time="00:42:23">at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:649)</logstring>  
+    <logstring date="2016-05-31" time="00:42:23">at org.dom4j.io.SAXReader.read(SAXReader.java:465)</logstring>  
+    <logstring date="2016-05-31" time="00:42:23">at org.dom4j.io.SAXReader.read(SAXReader.java:264)</logstring>  
+    <logstring date="2016-05-31" time="00:42:23">at datamanege.DataManege.getUserFriends(DataManege.java:57)</logstring>  
+    <logstring date="2016-05-31" time="00:42:23">at friendstate.SendFriendInfo.run(SendFriendInfo.java:52)</logstring>  
+    <logstring date="2016-05-31" time="00:42:24">hello</logstring>  
+    <logstring date="2016-05-31" time="00:42:24">helloend</logstring>  
+    <logstring date="2016-05-31" time="00:42:54">bppleman可以登录</logstring>  
+    <logstring date="2016-05-31" time="00:42:54">成功向bppleman发送好友列表</logstring>  
+    <logstring date="2016-05-31" time="00:42:55">hello</logstring>  
+    <logstring date="2016-05-31" time="00:42:55">helloend</logstring>  
+    <logstring date="2016-05-31" time="00:43:05">admin Socket[addr=/127.0.0.1,port=49750,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:43:05">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:fsdfsf }</logstring>  
+    <logstring date="2016-05-31" time="00:43:05">admin Socket[addr=/127.0.0.1,port=49752,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:43:05">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:fsdfsf }</logstring>  
+    <logstring date="2016-05-31" time="00:43:11">admin Socket[addr=/127.0.0.1,port=49750,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:43:11">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:12345 }</logstring>  
+    <logstring date="2016-05-31" time="00:43:11">admin Socket[addr=/127.0.0.1,port=49752,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:43:11">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:12345 }</logstring>  
+    <logstring date="2016-05-31" time="00:43:17">admin Socket[addr=/127.0.0.1,port=49750,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:43:17">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:132456 }</logstring>  
+    <logstring date="2016-05-31" time="00:43:17">admin Socket[addr=/127.0.0.1,port=49752,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:43:17">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:132456 }</logstring>  
+    <logstring date="2016-05-31" time="00:43:18">admin Socket[addr=/127.0.0.1,port=49750,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:43:18">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:123456 }</logstring>  
+    <logstring date="2016-05-31" time="00:43:18">admin Socket[addr=/127.0.0.1,port=49752,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:43:18">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:123456 }</logstring>  
+    <logstring date="2016-05-31" time="00:43:19">admin Socket[addr=/127.0.0.1,port=49750,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:43:19">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:132455 }</logstring>  
+    <logstring date="2016-05-31" time="00:43:19">admin Socket[addr=/127.0.0.1,port=49752,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:43:19">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:132455 }</logstring>  
+    <logstring date="2016-05-31" time="00:43:21">下线</logstring>  
+    <logstring date="2016-05-31" time="00:43:25">admin已下线</logstring>  
+    <logstring date="2016-05-31" time="00:43:31">admin可以登录</logstring>  
+    <logstring date="2016-05-31" time="00:43:31">成功向admin发送好友列表</logstring>  
+    <logstring date="2016-05-31" time="00:43:32">hello</logstring>  
+    <logstring date="2016-05-31" time="00:43:32">helloend</logstring>  
+    <logstring date="2016-05-31" time="00:43:44">bppleman Socket[addr=/127.0.0.1,port=49758,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:43:44">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:4567 }</logstring>  
+    <logstring date="2016-05-31" time="00:43:44">bppleman Socket[addr=/127.0.0.1,port=49759,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:43:44">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:4567 }</logstring>  
+    <logstring date="2016-05-31" time="00:43:46">admin Socket[addr=/127.0.0.1,port=49765,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:43:46">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:13245 }</logstring>  
+    <logstring date="2016-05-31" time="00:43:46">admin Socket[addr=/127.0.0.1,port=49766,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:43:46">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:13245 }</logstring>  
+    <logstring date="2016-05-31" time="00:43:48">admin Socket[addr=/127.0.0.1,port=49765,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:43:48">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:31245 }</logstring>  
+    <logstring date="2016-05-31" time="00:43:48">admin Socket[addr=/127.0.0.1,port=49766,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:43:48">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:31245 }</logstring>  
+    <logstring date="2016-05-31" time="00:43:49">bppleman Socket[addr=/127.0.0.1,port=49758,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:43:49">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:324567 }</logstring>  
+    <logstring date="2016-05-31" time="00:43:49">bppleman Socket[addr=/127.0.0.1,port=49759,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:43:49">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:324567 }</logstring>  
+    <logstring date="2016-05-31" time="00:43:51">bppleman Socket[addr=/127.0.0.1,port=49758,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:43:51">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:312456 }</logstring>  
+    <logstring date="2016-05-31" time="00:43:51">bppleman Socket[addr=/127.0.0.1,port=49759,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:43:51">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:312456 }</logstring>  
+    <logstring date="2016-05-31" time="00:43:52">bppleman Socket[addr=/127.0.0.1,port=49758,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:43:52">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:3214567 }</logstring>  
+    <logstring date="2016-05-31" time="00:43:52">bppleman Socket[addr=/127.0.0.1,port=49759,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:43:52">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:3214567 }</logstring>  
+    <logstring date="2016-05-31" time="00:43:53">bppleman Socket[addr=/127.0.0.1,port=49758,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:43:53">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:3124567 }</logstring>  
+    <logstring date="2016-05-31" time="00:43:53">bppleman Socket[addr=/127.0.0.1,port=49759,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:43:53">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:3124567 }</logstring>  
+    <logstring date="2016-05-31" time="00:43:54">bppleman Socket[addr=/127.0.0.1,port=49758,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:43:54">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:2314256475 }</logstring>  
+    <logstring date="2016-05-31" time="00:43:54">bppleman Socket[addr=/127.0.0.1,port=49759,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:43:54">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:2314256475 }</logstring>  
+    <logstring date="2016-05-31" time="00:43:55">bppleman Socket[addr=/127.0.0.1,port=49758,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:43:55">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:dsdfaf }</logstring>  
+    <logstring date="2016-05-31" time="00:43:55">bppleman Socket[addr=/127.0.0.1,port=49759,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:43:55">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:dsdfaf }</logstring>  
+    <logstring date="2016-05-31" time="00:43:56">bppleman Socket[addr=/127.0.0.1,port=49758,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:43:56">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:sadfag }</logstring>  
+    <logstring date="2016-05-31" time="00:43:56">bppleman Socket[addr=/127.0.0.1,port=49759,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:43:56">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:sadfag }</logstring>  
+    <logstring date="2016-05-31" time="00:43:56">bppleman Socket[addr=/127.0.0.1,port=49758,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:43:56">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:safdgh }</logstring>  
+    <logstring date="2016-05-31" time="00:43:56">bppleman Socket[addr=/127.0.0.1,port=49759,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:43:56">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:safdgh }</logstring>  
+    <logstring date="2016-05-31" time="00:43:57">bppleman Socket[addr=/127.0.0.1,port=49758,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:43:57">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:fadsghjkfsda }</logstring>  
+    <logstring date="2016-05-31" time="00:43:58">bppleman Socket[addr=/127.0.0.1,port=49759,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:43:58">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:fadsghjkfsda }</logstring>  
+    <logstring date="2016-05-31" time="00:44:00">下线</logstring>  
+    <logstring date="2016-05-31" time="00:44:04">bppleman已下线</logstring>  
+    <logstring date="2016-05-31" time="00:44:16">bppleman可以登录</logstring>  
+    <logstring date="2016-05-31" time="00:44:16">成功向bppleman发送好友列表</logstring>  
+    <logstring date="2016-05-31" time="00:44:17">hello</logstring>  
+    <logstring date="2016-05-31" time="00:44:17">helloend</logstring>  
+    <logstring date="2016-05-31" time="00:44:25">bppleman Socket[addr=/127.0.0.1,port=49773,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:44:25">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:fsadgh }</logstring>  
+    <logstring date="2016-05-31" time="00:44:25">bppleman Socket[addr=/127.0.0.1,port=49774,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:44:25">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:fsadgh }</logstring>  
+    <logstring date="2016-05-31" time="00:44:27">admin Socket[addr=/127.0.0.1,port=49765,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:44:27">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:312456 }</logstring>  
+    <logstring date="2016-05-31" time="00:44:27">admin Socket[addr=/127.0.0.1,port=49766,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:44:27">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:312456 }</logstring>  
+    <logstring date="2016-05-31" time="00:44:28">admin Socket[addr=/127.0.0.1,port=49765,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:44:28">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:45367 }</logstring>  
+    <logstring date="2016-05-31" time="00:44:28">admin Socket[addr=/127.0.0.1,port=49766,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:44:28">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:45367 }</logstring>  
+    <logstring date="2016-05-31" time="00:44:36">admin Socket[addr=/127.0.0.1,port=49765,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:44:36">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:ffsadgh }</logstring>  
+    <logstring date="2016-05-31" time="00:44:36">admin Socket[addr=/127.0.0.1,port=49766,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:44:36">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:ffsadgh }</logstring>  
+    <logstring date="2016-05-31" time="00:44:38">bppleman Socket[addr=/127.0.0.1,port=49773,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:44:38">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:fgdhjk }</logstring>  
+    <logstring date="2016-05-31" time="00:44:38">bppleman Socket[addr=/127.0.0.1,port=49774,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:44:38">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:fgdhjk }</logstring>  
+    <logstring date="2016-05-31" time="00:44:39">bppleman Socket[addr=/127.0.0.1,port=49773,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:44:39">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:fdgshj }</logstring>  
+    <logstring date="2016-05-31" time="00:44:39">bppleman Socket[addr=/127.0.0.1,port=49774,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:44:39">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:fdgshj }</logstring>  
+    <logstring date="2016-05-31" time="00:44:40">admin Socket[addr=/127.0.0.1,port=49765,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:44:40">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:fsdghj }</logstring>  
+    <logstring date="2016-05-31" time="00:44:40">admin Socket[addr=/127.0.0.1,port=49766,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:44:40">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:fsdghj }</logstring>  
+    <logstring date="2016-05-31" time="00:44:43">下线</logstring>  
+    <logstring date="2016-05-31" time="00:44:45">下线</logstring>  
+    <logstring date="2016-05-31" time="00:44:47">admin已下线</logstring>  
+    <logstring date="2016-05-31" time="00:44:48">bppleman已下线</logstring>  
+    <logstring date="2016-05-31" time="00:44:54">admin可以登录</logstring>  
+    <logstring date="2016-05-31" time="00:44:54">成功向admin发送好友列表</logstring>  
+    <logstring date="2016-05-31" time="00:44:55">hello</logstring>  
+    <logstring date="2016-05-31" time="00:44:55">helloend</logstring>  
+    <logstring date="2016-05-31" time="00:45:01">bppleman可以登录</logstring>  
+    <logstring date="2016-05-31" time="00:45:01">成功向bppleman发送好友列表</logstring>  
+    <logstring date="2016-05-31" time="00:45:02">hello</logstring>  
+    <logstring date="2016-05-31" time="00:45:02">helloend</logstring>  
+    <logstring date="2016-05-31" time="00:45:08">admin Socket[addr=/127.0.0.1,port=49780,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:45:08">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:fdsaghj }</logstring>  
+    <logstring date="2016-05-31" time="00:45:08">admin Socket[addr=/127.0.0.1,port=49781,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:45:08">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:fdsaghj }</logstring>  
+    <logstring date="2016-05-31" time="00:45:12">bppleman Socket[addr=/127.0.0.1,port=49782,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:45:12">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:fsdaghj }</logstring>  
+    <logstring date="2016-05-31" time="00:45:12">bppleman Socket[addr=/127.0.0.1,port=49783,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:45:12">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:fsdaghj }</logstring>  
+    <logstring date="2016-05-31" time="00:45:14">admin Socket[addr=/127.0.0.1,port=49780,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:45:14">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:fsdagh }</logstring>  
+    <logstring date="2016-05-31" time="00:45:14">admin Socket[addr=/127.0.0.1,port=49781,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:45:14">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:fsdagh }</logstring>  
+    <logstring date="2016-05-31" time="00:45:15">admin Socket[addr=/127.0.0.1,port=49780,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:45:15">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:412356 }</logstring>  
+    <logstring date="2016-05-31" time="00:45:15">admin Socket[addr=/127.0.0.1,port=49781,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:45:15">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:412356 }</logstring>  
+    <logstring date="2016-05-31" time="00:45:17">bppleman Socket[addr=/127.0.0.1,port=49782,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:45:17">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:4325677 }</logstring>  
+    <logstring date="2016-05-31" time="00:45:17">bppleman Socket[addr=/127.0.0.1,port=49783,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:45:17">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:4325677 }</logstring>  
+    <logstring date="2016-05-31" time="00:45:18">bppleman Socket[addr=/127.0.0.1,port=49782,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:45:18">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:543678 }</logstring>  
+    <logstring date="2016-05-31" time="00:45:18">bppleman Socket[addr=/127.0.0.1,port=49783,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:45:18">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:543678 }</logstring>  
+    <logstring date="2016-05-31" time="00:45:18">bppleman Socket[addr=/127.0.0.1,port=49782,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:45:18">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:64578 }</logstring>  
+    <logstring date="2016-05-31" time="00:45:18">bppleman Socket[addr=/127.0.0.1,port=49783,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:45:18">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:64578 }</logstring>  
+    <logstring date="2016-05-31" time="00:45:20">admin Socket[addr=/127.0.0.1,port=49780,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:45:20">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:432567i }</logstring>  
+    <logstring date="2016-05-31" time="00:45:20">admin Socket[addr=/127.0.0.1,port=49781,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:45:20">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:432567i }</logstring>  
+    <logstring date="2016-05-31" time="00:45:21">admin Socket[addr=/127.0.0.1,port=49780,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:45:21">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:45367 }</logstring>  
+    <logstring date="2016-05-31" time="00:45:21">admin Socket[addr=/127.0.0.1,port=49781,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:45:21">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:45367 }</logstring>  
+    <logstring date="2016-05-31" time="00:45:24">下线</logstring>  
+    <logstring date="2016-05-31" time="00:45:27">bppleman已下线</logstring>  
+    <logstring date="2016-05-31" time="00:45:35">bppleman可以登录</logstring>  
+    <logstring date="2016-05-31" time="00:45:35">成功向bppleman发送好友列表</logstring>  
+    <logstring date="2016-05-31" time="00:45:36">hello</logstring>  
+    <logstring date="2016-05-31" time="00:45:36">helloend</logstring>  
+    <logstring date="2016-05-31" time="00:46:04">admin Socket[addr=/127.0.0.1,port=49780,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:46:04">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:12432536 }</logstring>  
+    <logstring date="2016-05-31" time="00:46:04">admin Socket[addr=/127.0.0.1,port=49781,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:46:04">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:12432536 }</logstring>  
+    <logstring date="2016-05-31" time="00:46:06">bppleman Socket[addr=/127.0.0.1,port=49790,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:46:06">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:31245465 }</logstring>  
+    <logstring date="2016-05-31" time="00:46:06">bppleman Socket[addr=/127.0.0.1,port=49791,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:46:06">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:31245465 }</logstring>  
+    <logstring date="2016-05-31" time="00:46:07">bppleman Socket[addr=/127.0.0.1,port=49790,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:46:07">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:3124567 }</logstring>  
+    <logstring date="2016-05-31" time="00:46:07">bppleman Socket[addr=/127.0.0.1,port=49791,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:46:07">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:3124567 }</logstring>  
+    <logstring date="2016-05-31" time="00:46:09">admin Socket[addr=/127.0.0.1,port=49780,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:46:09">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:34325465 }</logstring>  
+    <logstring date="2016-05-31" time="00:46:09">admin Socket[addr=/127.0.0.1,port=49781,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:46:09">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:34325465 }</logstring>  
+    <logstring date="2016-05-31" time="00:46:10">admin Socket[addr=/127.0.0.1,port=49780,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:46:10">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:3124354657 }</logstring>  
+    <logstring date="2016-05-31" time="00:46:10">admin Socket[addr=/127.0.0.1,port=49781,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:46:10">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:3124354657 }</logstring>  
+    <logstring date="2016-05-31" time="00:46:10">admin Socket[addr=/127.0.0.1,port=49780,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:46:10">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:41325436547 }</logstring>  
+    <logstring date="2016-05-31" time="00:46:10">admin Socket[addr=/127.0.0.1,port=49781,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:46:10">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:41325436547 }</logstring>  
+    <logstring date="2016-05-31" time="00:46:11">admin Socket[addr=/127.0.0.1,port=49780,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:46:11">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:52436547658 }</logstring>  
+    <logstring date="2016-05-31" time="00:46:11">admin Socket[addr=/127.0.0.1,port=49781,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:46:11">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:52436547658 }</logstring>  
+    <logstring date="2016-05-31" time="00:46:46">下线</logstring>  
+    <logstring date="2016-05-31" time="00:46:47">下线</logstring>  
+    <logstring date="2016-05-31" time="00:46:49">bppleman已下线</logstring>  
+    <logstring date="2016-05-31" time="00:46:50">admin已下线</logstring>  
+    <logstring date="2016-05-31" time="00:47:01">admin可以登录</logstring>  
+    <logstring date="2016-05-31" time="00:47:01">成功向admin发送好友列表</logstring>  
+    <logstring date="2016-05-31" time="00:47:02">hello</logstring>  
+    <logstring date="2016-05-31" time="00:47:02">helloend</logstring>  
+    <logstring date="2016-05-31" time="00:47:12">bppleman可以登录</logstring>  
+    <logstring date="2016-05-31" time="00:47:12">成功向bppleman发送好友列表</logstring>  
+    <logstring date="2016-05-31" time="00:47:13">hello</logstring>  
+    <logstring date="2016-05-31" time="00:47:13">helloend</logstring>  
+    <logstring date="2016-05-31" time="00:47:26">bppleman Socket[addr=/127.0.0.1,port=49813,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:47:26">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:fsaghg }</logstring>  
+    <logstring date="2016-05-31" time="00:47:26">bppleman Socket[addr=/127.0.0.1,port=49814,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:47:26">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:fsaghg }</logstring>  
+    <logstring date="2016-05-31" time="00:47:28">admin Socket[addr=/127.0.0.1,port=49809,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:47:28">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:fdsghj }</logstring>  
+    <logstring date="2016-05-31" time="00:47:28">admin Socket[addr=/127.0.0.1,port=49810,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:47:28">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:fdsghj }</logstring>  
+    <logstring date="2016-05-31" time="00:47:30">admin Socket[addr=/127.0.0.1,port=49809,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:47:30">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:fsadghj }</logstring>  
+    <logstring date="2016-05-31" time="00:47:30">admin Socket[addr=/127.0.0.1,port=49810,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:47:30">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:fsadghj }</logstring>  
+    <logstring date="2016-05-31" time="00:47:32">bppleman Socket[addr=/127.0.0.1,port=49813,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:47:32">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:fdasghj }</logstring>  
+    <logstring date="2016-05-31" time="00:47:32">bppleman Socket[addr=/127.0.0.1,port=49814,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:47:32">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:fdasghj }</logstring>  
+    <logstring date="2016-05-31" time="00:47:32">bppleman Socket[addr=/127.0.0.1,port=49813,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:47:32">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:fdsghj }</logstring>  
+    <logstring date="2016-05-31" time="00:47:32">bppleman Socket[addr=/127.0.0.1,port=49814,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:47:32">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:fdsghj }</logstring>  
+    <logstring date="2016-05-31" time="00:47:33">bppleman Socket[addr=/127.0.0.1,port=49813,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:47:33">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:34256 }</logstring>  
+    <logstring date="2016-05-31" time="00:47:33">bppleman Socket[addr=/127.0.0.1,port=49814,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:47:33">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:34256 }</logstring>  
+    <logstring date="2016-05-31" time="00:47:34">bppleman Socket[addr=/127.0.0.1,port=49813,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:47:34">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:342567 }</logstring>  
+    <logstring date="2016-05-31" time="00:47:34">bppleman Socket[addr=/127.0.0.1,port=49814,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:47:34">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:342567 }</logstring>  
+    <logstring date="2016-05-31" time="00:47:35">admin Socket[addr=/127.0.0.1,port=49809,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:47:35">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:432567 }</logstring>  
+    <logstring date="2016-05-31" time="00:47:35">admin Socket[addr=/127.0.0.1,port=49810,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:47:35">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:432567 }</logstring>  
+    <logstring date="2016-05-31" time="00:47:36">admin Socket[addr=/127.0.0.1,port=49809,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:47:36">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:5243678 }</logstring>  
+    <logstring date="2016-05-31" time="00:47:36">admin Socket[addr=/127.0.0.1,port=49810,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:47:36">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:5243678 }</logstring>  
+    <logstring date="2016-05-31" time="00:47:36">admin Socket[addr=/127.0.0.1,port=49809,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:47:36">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:5436789 }</logstring>  
+    <logstring date="2016-05-31" time="00:47:36">admin Socket[addr=/127.0.0.1,port=49810,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:47:36">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:5436789 }</logstring>  
+    <logstring date="2016-05-31" time="00:47:37">admin Socket[addr=/127.0.0.1,port=49809,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:47:37">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:5436789 }</logstring>  
+    <logstring date="2016-05-31" time="00:47:37">admin Socket[addr=/127.0.0.1,port=49810,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:47:37">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:5436789 }</logstring>  
+    <logstring date="2016-05-31" time="00:47:37">admin Socket[addr=/127.0.0.1,port=49809,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:47:37">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:56347879 }</logstring>  
+    <logstring date="2016-05-31" time="00:47:37">admin Socket[addr=/127.0.0.1,port=49810,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:47:37">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:56347879 }</logstring>  
+    <logstring date="2016-05-31" time="00:47:38">admin Socket[addr=/127.0.0.1,port=49809,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:47:38">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:fjhlksdhfjlk }</logstring>  
+    <logstring date="2016-05-31" time="00:47:38">admin Socket[addr=/127.0.0.1,port=49810,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:47:39">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:fjhlksdhfjlk }</logstring>  
+    <logstring date="2016-05-31" time="00:47:41">下线</logstring>  
+    <logstring date="2016-05-31" time="00:47:44">下线</logstring>  
+    <logstring date="2016-05-31" time="00:47:45">admin已下线</logstring>  
+    <logstring date="2016-05-31" time="00:47:46">bppleman已下线</logstring>  
+    <logstring date="2016-05-31" time="00:48:17">admin可以登录</logstring>  
+    <logstring date="2016-05-31" time="00:48:17">成功向admin发送好友列表</logstring>  
+    <logstring date="2016-05-31" time="00:48:18">hello</logstring>  
+    <logstring date="2016-05-31" time="00:48:18">helloend</logstring>  
+    <logstring date="2016-05-31" time="00:48:36">bppleman可以登录</logstring>  
+    <logstring date="2016-05-31" time="00:48:36">成功向bppleman发送好友列表</logstring>  
+    <logstring date="2016-05-31" time="00:48:36">hello</logstring>  
+    <logstring date="2016-05-31" time="00:48:36">helloend</logstring>  
+    <logstring date="2016-05-31" time="00:48:57">admin Socket[addr=/127.0.0.1,port=49824,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:48:57">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:123435465 }</logstring>  
+    <logstring date="2016-05-31" time="00:48:57">admin Socket[addr=/127.0.0.1,port=49825,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:48:57">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:123435465 }</logstring>  
+    <logstring date="2016-05-31" time="00:48:59">bppleman Socket[addr=/127.0.0.1,port=49826,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:48:59">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:1324567 }</logstring>  
+    <logstring date="2016-05-31" time="00:48:59">bppleman Socket[addr=/127.0.0.1,port=49827,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:48:59">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:1324567 }</logstring>  
+    <logstring date="2016-05-31" time="00:49:00">bppleman Socket[addr=/127.0.0.1,port=49826,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:49:00">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:3214567 }</logstring>  
+    <logstring date="2016-05-31" time="00:49:00">bppleman Socket[addr=/127.0.0.1,port=49827,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:49:00">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:3214567 }</logstring>  
+    <logstring date="2016-05-31" time="00:49:01">bppleman Socket[addr=/127.0.0.1,port=49826,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:49:01">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:23143567 }</logstring>  
+    <logstring date="2016-05-31" time="00:49:01">bppleman Socket[addr=/127.0.0.1,port=49827,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:49:01">TalkInfo:{ SendUser:admin ReceiveUser:bppleman Message:23143567 }</logstring>  
+    <logstring date="2016-05-31" time="00:49:02">admin Socket[addr=/127.0.0.1,port=49824,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:49:03">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:413254657687 }</logstring>  
+    <logstring date="2016-05-31" time="00:49:03">admin Socket[addr=/127.0.0.1,port=49825,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:49:03">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:413254657687 }</logstring>  
+    <logstring date="2016-05-31" time="00:49:03">admin Socket[addr=/127.0.0.1,port=49824,localport=6666]</logstring>  
+    <logstring date="2016-05-31" time="00:49:03">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:432567 }</logstring>  
+    <logstring date="2016-05-31" time="00:49:03">admin Socket[addr=/127.0.0.1,port=49825,localport=6667]</logstring>  
+    <logstring date="2016-05-31" time="00:49:03">TalkInfo:{ SendUser:bppleman ReceiveUser:admin Message:432567 }</logstring>  
+    <logstring date="2016-05-31" time="00:49:05">下线</logstring>  
+    <logstring date="2016-05-31" time="00:49:05">下线</logstring>  
+    <logstring date="2016-05-31" time="00:51:38">admin可以登录</logstring>  
+    <logstring date="2016-05-31" time="00:51:38">成功向admin发送好友列表</logstring>  
+    <logstring date="2016-05-31" time="00:51:39">hello</logstring>  
+    <logstring date="2016-05-31" time="00:51:39">helloend</logstring>  
+    <logstring date="2016-05-31" time="00:51:46">bppleman可以登录</logstring>  
+    <logstring date="2016-05-31" time="00:51:46">成功向bppleman发送好友列表</logstring>  
+    <logstring date="2016-05-31" time="00:51:46">hello</logstring>  
+    <logstring date="2016-05-31" time="00:51:46">helloend</logstring>  
+    <logstring date="2016-05-31" time="00:51:50">下线</logstring>  
+    <logstring date="2016-05-31" time="00:51:52">下线</logstring>  
+    <logstring date="2016-05-31" time="00:51:52">bppleman已下线</logstring>  
+    <logstring date="2016-05-31" time="00:51:54">admin已下线</logstring>  
+    <logstring date="2016-05-31" time="00:52:00">admin可以登录</logstring>  
+    <logstring date="2016-05-31" time="00:52:00">成功向admin发送好友列表</logstring>  
+    <logstring date="2016-05-31" time="00:52:01">hello</logstring>  
+    <logstring date="2016-05-31" time="00:52:01">helloend</logstring>  
+    <logstring date="2016-05-31" time="00:52:06">bppleman可以登录</logstring>  
+    <logstring date="2016-05-31" time="00:52:06">成功向bppleman发送好友列表</logstring>  
+    <logstring date="2016-05-31" time="00:52:06">hello</logstring>  
+    <logstring date="2016-05-31" time="00:52:06">helloend</logstring>  
+    <logstring date="2016-05-31" time="00:52:17">下线</logstring>  
+    <logstring date="2016-05-31" time="00:52:20">admin已下线</logstring>  
+    <logstring date="2016-05-31" time="00:56:38">admin可以登录</logstring>  
+    <logstring date="2016-05-31" time="00:56:38">成功向admin发送好友列表</logstring>  
+    <logstring date="2016-05-31" time="00:56:49">下线</logstring>  
+    <logstring date="2016-05-31" time="00:56:52">admin已下线</logstring>  
+    <logstring date="2016-05-31" time="00:56:58">admin可以登录</logstring>  
+    <logstring date="2016-05-31" time="00:56:58">成功向admin发送好友列表</logstring>  
+    <logstring date="2016-05-31" time="00:57:06">bppleman可以登录</logstring>  
+    <logstring date="2016-05-31" time="00:57:06">成功向bppleman发送好友列表</logstring>  
+    <logstring date="2016-05-31" time="00:57:11">下线</logstring>  
+    <logstring date="2016-05-31" time="00:57:14">bppleman已下线</logstring>  
+    <logstring date="2016-05-31" time="00:57:17">下线</logstring>  
+    <logstring date="2016-05-31" time="13:45:50">成功添加成员:123456</logstring>  
+    <logstring date="2016-05-31" time="13:45:50">123456注册成功</logstring>  
+    <logstring date="2016-05-31" time="13:46:17">java.io.EOFException</logstring>  
+    <logstring date="2016-05-31" time="13:46:17">at java.io.ObjectInputStream$BlockDataInputStream.peekByte(ObjectInputStream.java:2608)</logstring>  
+    <logstring date="2016-05-31" time="13:46:17">at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1319)</logstring>  
+    <logstring date="2016-05-31" time="13:46:17">at java.io.ObjectInputStream.readObject(ObjectInputStream.java:371)</logstring>  
+    <logstring date="2016-05-31" time="13:46:17">at dataservice.DateServer.run(DateServer.java:39)</logstring>  
+    <logstring date="2016-05-31" time="13:46:27">成功删除成员:123456</logstring>  
+    <logstring date="2016-05-31" time="13:51:46">成功添加成员:123456</logstring>  
+    <logstring date="2016-05-31" time="13:51:46">123456注册成功</logstring>  
+    <logstring date="2016-05-31" time="13:51:54">123456可以登录</logstring>  
+    <logstring date="2016-05-31" time="13:51:54">成功向123456发送好友列表</logstring>  
+    <logstring date="2016-05-31" time="13:52:02">下线</logstring>  
+    <logstring date="2016-05-31" time="13:52:06">123456已下线</logstring>  
+    <logstring date="2016-05-31" time="13:54:41">成功添加成员:4567898</logstring>  
+    <logstring date="2016-05-31" time="13:54:41">4567898注册成功</logstring>  
+    <logstring date="2016-05-31" time="13:55:22">成功删除成员:123456</logstring>  
+    <logstring date="2016-05-31" time="13:55:23">成功删除成员:4567898</logstring>  
+    <logstring date="2016-05-31" time="14:02:25">成功添加成员:admina</logstring>  
+    <logstring date="2016-05-31" time="14:02:26">admina注册成功</logstring>  
+    <logstring date="2016-05-31" time="14:02:54">成功添加成员:admin1</logstring>  
+    <logstring date="2016-05-31" time="14:02:54">admin1注册成功</logstring>  
+    <logstring date="2016-05-31" time="14:03:09">成功删除成员:admina</logstring>  
+    <logstring date="2016-05-31" time="14:03:11">成功删除成员:admin1</logstring>  
+    <logstring date="2016-05-31" time="15:21:23">admin</logstring>  
+    <logstring date="2016-05-31" time="15:21:23">bppleman</logstring>  
+    <logstring date="2016-05-31" time="15:21:23">lesleyteng</logstring>  
+    <logstring date="2016-05-31" time="15:21:49">admin</logstring>  
+    <logstring date="2016-05-31" time="15:21:49">admin</logstring>  
+    <logstring date="2016-05-31" time="15:21:49">bppleman</logstring>  
+    <logstring date="2016-05-31" time="15:21:49">bppleman</logstring>  
+    <logstring date="2016-05-31" time="15:21:49">lesleyteng</logstring>  
+    <logstring date="2016-05-31" time="15:21:49">lesleyteng</logstring>  
+    <logstring date="2016-05-31" time="15:22:15">admin</logstring>  
+    <logstring date="2016-05-31" time="15:22:15">admin</logstring>  
+    <logstring date="2016-05-31" time="15:22:15">bppleman</logstring>  
+    <logstring date="2016-05-31" time="15:22:15">bppleman</logstring>  
+    <logstring date="2016-05-31" time="15:22:15">lesleyteng</logstring>  
+    <logstring date="2016-05-31" time="15:22:15">lesleyteng</logstring>  
+    <logstring date="2016-05-31" time="15:23:37">admin</logstring>  
+    <logstring date="2016-05-31" time="15:23:37">bppleman</logstring>  
+    <logstring date="2016-05-31" time="15:23:37">lesleyteng</logstring>  
+    <logstring date="2016-05-31" time="15:23:39">admin</logstring>  
+    <logstring date="2016-05-31" time="15:23:39">bppleman</logstring>  
+    <logstring date="2016-05-31" time="15:23:39">lesleyteng</logstring>  
+    <logstring date="2016-05-31" time="15:23:39">admin</logstring>  
+    <logstring date="2016-05-31" time="15:23:39">bppleman</logstring>  
+    <logstring date="2016-05-31" time="15:23:39">lesleyteng</logstring>  
+    <logstring date="2016-06-01" time="21:11:27">admin可以登录</logstring>  
+    <logstring date="2016-06-01" time="21:11:27">成功向admin发送好友列表</logstring>  
+    <logstring date="2016-06-01" time="21:11:35">bppleman可以登录</logstring>  
+    <logstring date="2016-06-01" time="21:11:35">成功向bppleman发送好友列表</logstring>  
+    <logstring date="2016-06-01" time="21:12:14">下线</logstring>  
+    <logstring date="2016-06-01" time="21:12:16">下线</logstring>  
+    <logstring date="2016-06-01" time="21:12:17">admin已下线</logstring>  
+    <logstring date="2016-06-01" time="21:12:17">java.net.SocketException: Broken pipe</logstring>  
+    <logstring date="2016-06-01" time="21:12:17">at java.net.SocketOutputStream.socketWrite0(Native Method)</logstring>  
+    <logstring date="2016-06-01" time="21:12:17">at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:109)</logstring>  
+    <logstring date="2016-06-01" time="21:12:17">at java.net.SocketOutputStream.write(SocketOutputStream.java:153)</logstring>  
+    <logstring date="2016-06-01" time="21:12:17">at java.io.ObjectOutputStream$BlockDataOutputStream.drain(ObjectOutputStream.java:1877)</logstring>  
+    <logstring date="2016-06-01" time="21:12:17">at java.io.ObjectOutputStream$BlockDataOutputStream.setBlockDataMode(ObjectOutputStream.java:1786)</logstring>  
+    <logstring date="2016-06-01" time="21:12:17">at java.io.ObjectOutputStream.writeNonProxyDesc(ObjectOutputStream.java:1286)</logstring>  
+    <logstring date="2016-06-01" time="21:12:17">at java.io.ObjectOutputStream.writeClassDesc(ObjectOutputStream.java:1231)</logstring>  
+    <logstring date="2016-06-01" time="21:12:17">at java.io.ObjectOutputStream.writeOrdinaryObject(ObjectOutputStream.java:1427)</logstring>  
+    <logstring date="2016-06-01" time="21:12:17">at java.io.ObjectOutputStream.writeObject0(ObjectOutputStream.java:1178)</logstring>  
+    <logstring date="2016-06-01" time="21:12:17">at java.io.ObjectOutputStream.writeFatalException(ObjectOutputStream.java:1577)</logstring>  
+    <logstring date="2016-06-01" time="21:12:17">at java.io.ObjectOutputStream.writeObject(ObjectOutputStream.java:351)</logstring>  
+    <logstring date="2016-06-01" time="21:12:17">at friendstate.SendFriendInfo.sendFriendInfoToSocket(SendFriendInfo.java:72)</logstring>  
+    <logstring date="2016-06-01" time="21:12:17">at friendstate.SendFriendInfo.run(SendFriendInfo.java:56)</logstring>  
+    <logstring date="2016-06-01" time="21:12:19">bppleman已下线</logstring>
+</log>

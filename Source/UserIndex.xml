@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<userindex> 
+    <usermodel> 
+        <username>用户名</username>  
+        <password>密码</password>  
+        <userstate>状态</userstate> 
+    </usermodel>  
+    <userlist> 
+        <username>admin</username>  
+        <username>bppleman</username>  
+        <username>lesleyteng</username> 
+    </userlist> 
+</userindex>
