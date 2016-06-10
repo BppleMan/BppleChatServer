@@ -1,23 +1,18 @@
 package talkservice;
 
 import java.io.IOException;
-import java.io.ObjectInputStream;
-import java.io.ObjectOutputStream;
 
 import data.TalkInfo;
 import listen.User_Socket;
 
-public class OutputThread extends Thread
+public class SendTalkInfo extends Thread
 {
 	private TalkInfo talkInfo = null;
 	private TalkInfoBuff talkInfoBuff = null;
-	private ObjectInputStream ois = null;
-	private ObjectOutputStream oos = null;
 
-	public OutputThread(TalkInfoBuff talkInfoBuff, ObjectInputStream ois)
+	public SendTalkInfo(TalkInfoBuff talkInfoBuff)
 	{
 		this.talkInfoBuff = talkInfoBuff;
-		this.ois = ois;
 	}
 
 	@Override
@@ -34,8 +29,7 @@ public class OutputThread extends Thread
 					{
 						if (us.userName.equals(talkInfo.getReceiveUser()))
 						{
-							oos = us.oos;
-							oos.writeObject(talkInfo);
+							us.oos.writeObject(talkInfo);
 							talkInfoBuff.remove(talkInfo);
 						}
 					}

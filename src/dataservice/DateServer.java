@@ -60,6 +60,16 @@ public class DateServer extends Thread
 						socket = null;
 						break;
 					}
+					else if (command.equals(CommandSource.logoutCommand))
+					{
+						ois.close();
+						oos.close();
+						socket.close();
+						ois = null;
+						oos = null;
+						socket = null;
+						break;
+					}
 				}
 			}
 		}

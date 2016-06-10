@@ -517,5 +517,422 @@
     <logstring date="2016-06-01" time="21:12:17">at java.io.ObjectOutputStream.writeObject(ObjectOutputStream.java:351)</logstring>  
     <logstring date="2016-06-01" time="21:12:17">at friendstate.SendFriendInfo.sendFriendInfoToSocket(SendFriendInfo.java:72)</logstring>  
     <logstring date="2016-06-01" time="21:12:17">at friendstate.SendFriendInfo.run(SendFriendInfo.java:56)</logstring>  
-    <logstring date="2016-06-01" time="21:12:19">bppleman已下线</logstring>
+    <logstring date="2016-06-01" time="21:12:19">bppleman已下线</logstring>  
+    <logstring date="2016-06-03" time="16:08:21">admin可以登录</logstring>  
+    <logstring date="2016-06-03" time="16:08:22">成功向admin发送好友列表</logstring>  
+    <logstring date="2016-06-03" time="16:08:29">bppleman可以登录</logstring>  
+    <logstring date="2016-06-03" time="16:08:29">成功向bppleman发送好友列表</logstring>  
+    <logstring date="2016-06-03" time="16:08:41">java.io.EOFException</logstring>  
+    <logstring date="2016-06-03" time="16:08:41">at java.io.ObjectInputStream$BlockDataInputStream.peekByte(ObjectInputStream.java:2608)</logstring>  
+    <logstring date="2016-06-03" time="16:08:41">at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1319)</logstring>  
+    <logstring date="2016-06-03" time="16:08:42">at java.io.ObjectInputStream.readObject(ObjectInputStream.java:371)</logstring>  
+    <logstring date="2016-06-03" time="16:08:42">at dataservice.DateServer.run(DateServer.java:39)</logstring>  
+    <logstring date="2016-06-03" time="16:08:42">下线</logstring>  
+    <logstring date="2016-06-03" time="16:08:43">下线</logstring>  
+    <logstring date="2016-06-03" time="16:08:43">java.io.EOFException</logstring>  
+    <logstring date="2016-06-03" time="16:08:43">at java.io.ObjectInputStream$BlockDataInputStream.peekByte(ObjectInputStream.java:2608)</logstring>  
+    <logstring date="2016-06-03" time="16:08:43">at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1319)</logstring>  
+    <logstring date="2016-06-03" time="16:08:43">at java.io.ObjectInputStream.readObject(ObjectInputStream.java:371)</logstring>  
+    <logstring date="2016-06-03" time="16:08:43">at dataservice.DateServer.run(DateServer.java:39)</logstring>  
+    <logstring date="2016-06-03" time="16:08:44">admin已下线</logstring>  
+    <logstring date="2016-06-03" time="16:08:44">java.net.SocketException: Broken pipe</logstring>  
+    <logstring date="2016-06-03" time="16:08:44">at java.net.SocketOutputStream.socketWrite0(Native Method)</logstring>  
+    <logstring date="2016-06-03" time="16:08:44">at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:109)</logstring>  
+    <logstring date="2016-06-03" time="16:08:44">at java.net.SocketOutputStream.write(SocketOutputStream.java:153)</logstring>  
+    <logstring date="2016-06-03" time="16:08:44">at java.io.ObjectOutputStream$BlockDataOutputStream.drain(ObjectOutputStream.java:1877)</logstring>  
+    <logstring date="2016-06-03" time="16:08:44">at java.io.ObjectOutputStream$BlockDataOutputStream.setBlockDataMode(ObjectOutputStream.java:1786)</logstring>  
+    <logstring date="2016-06-03" time="16:08:44">at java.io.ObjectOutputStream.writeNonProxyDesc(ObjectOutputStream.java:1286)</logstring>  
+    <logstring date="2016-06-03" time="16:08:44">at java.io.ObjectOutputStream.writeClassDesc(ObjectOutputStream.java:1231)</logstring>  
+    <logstring date="2016-06-03" time="16:08:44">at java.io.ObjectOutputStream.writeOrdinaryObject(ObjectOutputStream.java:1427)</logstring>  
+    <logstring date="2016-06-03" time="16:08:44">at java.io.ObjectOutputStream.writeObject0(ObjectOutputStream.java:1178)</logstring>  
+    <logstring date="2016-06-03" time="16:08:44">at java.io.ObjectOutputStream.writeFatalException(ObjectOutputStream.java:1577)</logstring>  
+    <logstring date="2016-06-03" time="16:08:44">at java.io.ObjectOutputStream.writeObject(ObjectOutputStream.java:351)</logstring>  
+    <logstring date="2016-06-03" time="16:08:44">at friendstate.SendFriendInfo.sendFriendInfoToSocket(SendFriendInfo.java:72)</logstring>  
+    <logstring date="2016-06-03" time="16:08:44">at friendstate.SendFriendInfo.run(SendFriendInfo.java:56)</logstring>  
+    <logstring date="2016-06-03" time="16:08:46">bppleman已下线</logstring>  
+    <logstring date="2016-06-04" time="00:00:09">admin可以登录</logstring>  
+    <logstring date="2016-06-04" time="00:00:09">成功向admin发送好友列表</logstring>  
+    <logstring date="2016-06-04" time="00:00:43">bppleman可以登录</logstring>  
+    <logstring date="2016-06-04" time="00:00:43">成功向bppleman发送好友列表</logstring>  
+    <logstring date="2016-06-04" time="00:02:50">下线</logstring>  
+    <logstring date="2016-06-04" time="00:02:51">java.io.EOFException</logstring>  
+    <logstring date="2016-06-04" time="00:02:51">at java.io.ObjectInputStream$BlockDataInputStream.peekByte(ObjectInputStream.java:2608)</logstring>  
+    <logstring date="2016-06-04" time="00:02:51">at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1319)</logstring>  
+    <logstring date="2016-06-04" time="00:02:51">at java.io.ObjectInputStream.readObject(ObjectInputStream.java:371)</logstring>  
+    <logstring date="2016-06-04" time="00:02:51">at dataservice.DateServer.run(DateServer.java:39)</logstring>  
+    <logstring date="2016-06-04" time="00:02:53">bppleman已下线</logstring>  
+    <logstring date="2016-06-04" time="00:03:00">bppleman可以登录</logstring>  
+    <logstring date="2016-06-04" time="00:03:00">成功向bppleman发送好友列表</logstring>  
+    <logstring date="2016-06-04" time="00:03:10">下线</logstring>  
+    <logstring date="2016-06-04" time="00:03:10">java.io.EOFException</logstring>  
+    <logstring date="2016-06-04" time="00:03:10">at java.io.ObjectInputStream$BlockDataInputStream.peekByte(ObjectInputStream.java:2608)</logstring>  
+    <logstring date="2016-06-04" time="00:03:10">at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1319)</logstring>  
+    <logstring date="2016-06-04" time="00:03:10">at java.io.ObjectInputStream.readObject(ObjectInputStream.java:371)</logstring>  
+    <logstring date="2016-06-04" time="00:03:10">at dataservice.DateServer.run(DateServer.java:39)</logstring>  
+    <logstring date="2016-06-04" time="00:03:12">bppleman已下线</logstring>  
+    <logstring date="2016-06-04" time="00:03:52">bppleman可以登录</logstring>  
+    <logstring date="2016-06-04" time="00:03:52">成功向bppleman发送好友列表</logstring>  
+    <logstring date="2016-06-04" time="00:06:02">java.io.EOFException</logstring>  
+    <logstring date="2016-06-04" time="00:06:02">at java.io.ObjectInputStream$BlockDataInputStream.peekByte(ObjectInputStream.java:2608)</logstring>  
+    <logstring date="2016-06-04" time="00:06:02">at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1319)</logstring>  
+    <logstring date="2016-06-04" time="00:06:02">at java.io.ObjectInputStream.readObject(ObjectInputStream.java:371)</logstring>  
+    <logstring date="2016-06-04" time="00:06:02">at dataservice.DateServer.run(DateServer.java:39)</logstring>  
+    <logstring date="2016-06-04" time="00:06:02">下线</logstring>  
+    <logstring date="2016-06-04" time="00:06:03">下线</logstring>  
+    <logstring date="2016-06-04" time="00:06:03">java.io.EOFException</logstring>  
+    <logstring date="2016-06-04" time="00:06:03">at java.io.ObjectInputStream$BlockDataInputStream.peekByte(ObjectInputStream.java:2608)</logstring>  
+    <logstring date="2016-06-04" time="00:06:03">at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1319)</logstring>  
+    <logstring date="2016-06-04" time="00:06:03">at java.io.ObjectInputStream.readObject(ObjectInputStream.java:371)</logstring>  
+    <logstring date="2016-06-04" time="00:06:03">at dataservice.DateServer.run(DateServer.java:39)</logstring>  
+    <logstring date="2016-06-04" time="00:06:04">admin已下线</logstring>  
+    <logstring date="2016-06-04" time="00:06:04">java.net.SocketException: Broken pipe</logstring>  
+    <logstring date="2016-06-04" time="00:06:04">at java.net.SocketOutputStream.socketWrite0(Native Method)</logstring>  
+    <logstring date="2016-06-04" time="00:06:04">at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:109)</logstring>  
+    <logstring date="2016-06-04" time="00:06:04">at java.net.SocketOutputStream.write(SocketOutputStream.java:153)</logstring>  
+    <logstring date="2016-06-04" time="00:06:04">at java.io.ObjectOutputStream$BlockDataOutputStream.drain(ObjectOutputStream.java:1877)</logstring>  
+    <logstring date="2016-06-04" time="00:06:04">at java.io.ObjectOutputStream$BlockDataOutputStream.setBlockDataMode(ObjectOutputStream.java:1786)</logstring>  
+    <logstring date="2016-06-04" time="00:06:04">at java.io.ObjectOutputStream.writeNonProxyDesc(ObjectOutputStream.java:1286)</logstring>  
+    <logstring date="2016-06-04" time="00:06:04">at java.io.ObjectOutputStream.writeClassDesc(ObjectOutputStream.java:1231)</logstring>  
+    <logstring date="2016-06-04" time="00:06:04">at java.io.ObjectOutputStream.writeOrdinaryObject(ObjectOutputStream.java:1427)</logstring>  
+    <logstring date="2016-06-04" time="00:06:04">at java.io.ObjectOutputStream.writeObject0(ObjectOutputStream.java:1178)</logstring>  
+    <logstring date="2016-06-04" time="00:06:04">at java.io.ObjectOutputStream.writeFatalException(ObjectOutputStream.java:1577)</logstring>  
+    <logstring date="2016-06-04" time="00:06:04">at java.io.ObjectOutputStream.writeObject(ObjectOutputStream.java:351)</logstring>  
+    <logstring date="2016-06-04" time="00:06:04">at friendstate.SendFriendInfo.sendFriendInfoToSocket(SendFriendInfo.java:72)</logstring>  
+    <logstring date="2016-06-04" time="00:06:04">at friendstate.SendFriendInfo.run(SendFriendInfo.java:56)</logstring>  
+    <logstring date="2016-06-04" time="00:06:04">bppleman已下线</logstring>  
+    <logstring date="2016-06-07" time="00:47:55">admin可以登录</logstring>  
+    <logstring date="2016-06-07" time="00:47:56">成功向admin发送好友列表</logstring>  
+    <logstring date="2016-06-07" time="00:48:50">下线</logstring>  
+    <logstring date="2016-06-07" time="00:48:50">java.io.EOFException</logstring>  
+    <logstring date="2016-06-07" time="00:48:50">at java.io.ObjectInputStream$BlockDataInputStream.peekByte(ObjectInputStream.java:2608)</logstring>  
+    <logstring date="2016-06-07" time="00:48:50">at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1319)</logstring>  
+    <logstring date="2016-06-07" time="00:48:51">at java.io.ObjectInputStream.readObject(ObjectInputStream.java:371)</logstring>  
+    <logstring date="2016-06-07" time="00:48:51">at dataservice.DateServer.run(DateServer.java:39)</logstring>  
+    <logstring date="2016-06-07" time="00:48:54">admin已下线</logstring>  
+    <logstring date="2016-06-08" time="02:17:22">admin可以登录</logstring>  
+    <logstring date="2016-06-08" time="02:17:22">成功向admin发送好友列表</logstring>  
+    <logstring date="2016-06-08" time="02:18:41">下线</logstring>  
+    <logstring date="2016-06-08" time="02:18:41">java.io.EOFException</logstring>  
+    <logstring date="2016-06-08" time="02:18:41">at java.io.ObjectInputStream$BlockDataInputStream.peekByte(ObjectInputStream.java:2608)</logstring>  
+    <logstring date="2016-06-08" time="02:18:41">at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1319)</logstring>  
+    <logstring date="2016-06-08" time="02:18:41">at java.io.ObjectInputStream.readObject(ObjectInputStream.java:371)</logstring>  
+    <logstring date="2016-06-08" time="02:18:41">at dataservice.DateServer.run(DateServer.java:39)</logstring>  
+    <logstring date="2016-06-08" time="02:18:44">admin已下线</logstring>  
+    <logstring date="2016-06-08" time="02:21:58">admin可以登录</logstring>  
+    <logstring date="2016-06-08" time="02:21:58">成功向admin发送好友列表</logstring>  
+    <logstring date="2016-06-08" time="02:23:19">下线</logstring>  
+    <logstring date="2016-06-08" time="02:23:19">java.io.EOFException</logstring>  
+    <logstring date="2016-06-08" time="02:23:19">at java.io.ObjectInputStream$BlockDataInputStream.peekByte(ObjectInputStream.java:2608)</logstring>  
+    <logstring date="2016-06-08" time="02:23:19">at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1319)</logstring>  
+    <logstring date="2016-06-08" time="02:23:19">at java.io.ObjectInputStream.readObject(ObjectInputStream.java:371)</logstring>  
+    <logstring date="2016-06-08" time="02:23:19">at dataservice.DateServer.run(DateServer.java:39)</logstring>  
+    <logstring date="2016-06-08" time="02:23:22">admin已下线</logstring>  
+    <logstring date="2016-06-08" time="02:25:36">admin可以登录</logstring>  
+    <logstring date="2016-06-08" time="02:25:36">成功向admin发送好友列表</logstring>  
+    <logstring date="2016-06-08" time="02:25:52">下线</logstring>  
+    <logstring date="2016-06-08" time="02:25:52">java.io.EOFException</logstring>  
+    <logstring date="2016-06-08" time="02:25:52">at java.io.ObjectInputStream$BlockDataInputStream.peekByte(ObjectInputStream.java:2608)</logstring>  
+    <logstring date="2016-06-08" time="02:25:52">at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1319)</logstring>  
+    <logstring date="2016-06-08" time="02:25:52">at java.io.ObjectInputStream.readObject(ObjectInputStream.java:371)</logstring>  
+    <logstring date="2016-06-08" time="02:25:52">at dataservice.DateServer.run(DateServer.java:39)</logstring>  
+    <logstring date="2016-06-08" time="02:25:55">admin已下线</logstring>  
+    <logstring date="2016-06-08" time="02:26:29">admin可以登录</logstring>  
+    <logstring date="2016-06-08" time="02:26:29">成功向admin发送好友列表</logstring>  
+    <logstring date="2016-06-08" time="02:26:41">bppleman可以登录</logstring>  
+    <logstring date="2016-06-08" time="02:26:41">成功向bppleman发送好友列表</logstring>  
+    <logstring date="2016-06-08" time="02:27:26">下线</logstring>  
+    <logstring date="2016-06-08" time="02:27:26">java.io.EOFException</logstring>  
+    <logstring date="2016-06-08" time="02:27:26">at java.io.ObjectInputStream$BlockDataInputStream.peekByte(ObjectInputStream.java:2608)</logstring>  
+    <logstring date="2016-06-08" time="02:27:26">at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1319)</logstring>  
+    <logstring date="2016-06-08" time="02:27:26">at java.io.ObjectInputStream.readObject(ObjectInputStream.java:371)</logstring>  
+    <logstring date="2016-06-08" time="02:27:26">at dataservice.DateServer.run(DateServer.java:39)</logstring>  
+    <logstring date="2016-06-08" time="02:27:28">下线</logstring>  
+    <logstring date="2016-06-08" time="02:27:28">java.io.EOFException</logstring>  
+    <logstring date="2016-06-08" time="02:27:28">at java.io.ObjectInputStream$BlockDataInputStream.peekByte(ObjectInputStream.java:2608)</logstring>  
+    <logstring date="2016-06-08" time="02:27:28">at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1319)</logstring>  
+    <logstring date="2016-06-08" time="02:27:28">at java.io.ObjectInputStream.readObject(ObjectInputStream.java:371)</logstring>  
+    <logstring date="2016-06-08" time="02:27:28">at dataservice.DateServer.run(DateServer.java:39)</logstring>  
+    <logstring date="2016-06-08" time="02:27:29">admin已下线</logstring>  
+    <logstring date="2016-06-08" time="02:27:29">java.net.SocketException: Broken pipe</logstring>  
+    <logstring date="2016-06-08" time="02:27:29">at java.net.SocketOutputStream.socketWrite0(Native Method)</logstring>  
+    <logstring date="2016-06-08" time="02:27:29">at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:109)</logstring>  
+    <logstring date="2016-06-08" time="02:27:29">at java.net.SocketOutputStream.write(SocketOutputStream.java:153)</logstring>  
+    <logstring date="2016-06-08" time="02:27:29">at java.io.ObjectOutputStream$BlockDataOutputStream.drain(ObjectOutputStream.java:1877)</logstring>  
+    <logstring date="2016-06-08" time="02:27:29">at java.io.ObjectOutputStream$BlockDataOutputStream.setBlockDataMode(ObjectOutputStream.java:1786)</logstring>  
+    <logstring date="2016-06-08" time="02:27:29">at java.io.ObjectOutputStream.writeNonProxyDesc(ObjectOutputStream.java:1286)</logstring>  
+    <logstring date="2016-06-08" time="02:27:29">at java.io.ObjectOutputStream.writeClassDesc(ObjectOutputStream.java:1231)</logstring>  
+    <logstring date="2016-06-08" time="02:27:29">at java.io.ObjectOutputStream.writeOrdinaryObject(ObjectOutputStream.java:1427)</logstring>  
+    <logstring date="2016-06-08" time="02:27:29">at java.io.ObjectOutputStream.writeObject0(ObjectOutputStream.java:1178)</logstring>  
+    <logstring date="2016-06-08" time="02:27:29">at java.io.ObjectOutputStream.writeFatalException(ObjectOutputStream.java:1577)</logstring>  
+    <logstring date="2016-06-08" time="02:27:29">at java.io.ObjectOutputStream.writeObject(ObjectOutputStream.java:351)</logstring>  
+    <logstring date="2016-06-08" time="02:27:29">at friendstate.SendFriendInfo.sendFriendInfoToSocket(SendFriendInfo.java:72)</logstring>  
+    <logstring date="2016-06-08" time="02:27:29">at friendstate.SendFriendInfo.run(SendFriendInfo.java:56)</logstring>  
+    <logstring date="2016-06-08" time="02:27:31">bppleman已下线</logstring>  
+    <logstring date="2016-06-08" time="02:27:37">admin可以登录</logstring>  
+    <logstring date="2016-06-08" time="02:27:37">成功向admin发送好友列表</logstring>  
+    <logstring date="2016-06-08" time="02:27:41">bppleman可以登录</logstring>  
+    <logstring date="2016-06-08" time="02:27:41">成功向bppleman发送好友列表</logstring>  
+    <logstring date="2016-06-08" time="02:28:15">下线</logstring>  
+    <logstring date="2016-06-08" time="02:28:15">java.io.EOFException</logstring>  
+    <logstring date="2016-06-08" time="02:28:15">at java.io.ObjectInputStream$BlockDataInputStream.peekByte(ObjectInputStream.java:2608)</logstring>  
+    <logstring date="2016-06-08" time="02:28:15">at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1319)</logstring>  
+    <logstring date="2016-06-08" time="02:28:15">at java.io.ObjectInputStream.readObject(ObjectInputStream.java:371)</logstring>  
+    <logstring date="2016-06-08" time="02:28:15">at dataservice.DateServer.run(DateServer.java:39)</logstring>  
+    <logstring date="2016-06-08" time="02:28:17">下线</logstring>  
+    <logstring date="2016-06-08" time="02:28:17">java.io.EOFException</logstring>  
+    <logstring date="2016-06-08" time="02:28:17">at java.io.ObjectInputStream$BlockDataInputStream.peekByte(ObjectInputStream.java:2608)</logstring>  
+    <logstring date="2016-06-08" time="02:28:17">at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1319)</logstring>  
+    <logstring date="2016-06-08" time="02:28:17">at java.io.ObjectInputStream.readObject(ObjectInputStream.java:371)</logstring>  
+    <logstring date="2016-06-08" time="02:28:17">at dataservice.DateServer.run(DateServer.java:39)</logstring>  
+    <logstring date="2016-06-08" time="02:28:19">admin已下线</logstring>  
+    <logstring date="2016-06-08" time="02:28:19">java.net.SocketException: Broken pipe</logstring>  
+    <logstring date="2016-06-08" time="02:28:19">at java.net.SocketOutputStream.socketWrite0(Native Method)</logstring>  
+    <logstring date="2016-06-08" time="02:28:19">at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:109)</logstring>  
+    <logstring date="2016-06-08" time="02:28:19">at java.net.SocketOutputStream.write(SocketOutputStream.java:153)</logstring>  
+    <logstring date="2016-06-08" time="02:28:19">at java.io.ObjectOutputStream$BlockDataOutputStream.drain(ObjectOutputStream.java:1877)</logstring>  
+    <logstring date="2016-06-08" time="02:28:19">at java.io.ObjectOutputStream$BlockDataOutputStream.setBlockDataMode(ObjectOutputStream.java:1786)</logstring>  
+    <logstring date="2016-06-08" time="02:28:19">at java.io.ObjectOutputStream.writeNonProxyDesc(ObjectOutputStream.java:1286)</logstring>  
+    <logstring date="2016-06-08" time="02:28:19">at java.io.ObjectOutputStream.writeClassDesc(ObjectOutputStream.java:1231)</logstring>  
+    <logstring date="2016-06-08" time="02:28:19">at java.io.ObjectOutputStream.writeOrdinaryObject(ObjectOutputStream.java:1427)</logstring>  
+    <logstring date="2016-06-08" time="02:28:19">at java.io.ObjectOutputStream.writeObject0(ObjectOutputStream.java:1178)</logstring>  
+    <logstring date="2016-06-08" time="02:28:19">at java.io.ObjectOutputStream.writeFatalException(ObjectOutputStream.java:1577)</logstring>  
+    <logstring date="2016-06-08" time="02:28:19">at java.io.ObjectOutputStream.writeObject(ObjectOutputStream.java:351)</logstring>  
+    <logstring date="2016-06-08" time="02:28:19">at friendstate.SendFriendInfo.sendFriendInfoToSocket(SendFriendInfo.java:72)</logstring>  
+    <logstring date="2016-06-08" time="02:28:19">at friendstate.SendFriendInfo.run(SendFriendInfo.java:56)</logstring>  
+    <logstring date="2016-06-08" time="02:28:19">bppleman已下线</logstring>  
+    <logstring date="2016-06-08" time="02:29:16">admin可以登录</logstring>  
+    <logstring date="2016-06-08" time="02:29:16">成功向admin发送好友列表</logstring>  
+    <logstring date="2016-06-08" time="02:29:23">bppleman可以登录</logstring>  
+    <logstring date="2016-06-08" time="02:29:23">成功向bppleman发送好友列表</logstring>  
+    <logstring date="2016-06-08" time="02:31:32">下线</logstring>  
+    <logstring date="2016-06-08" time="02:31:32">java.io.EOFException</logstring>  
+    <logstring date="2016-06-08" time="02:31:32">at java.io.ObjectInputStream$BlockDataInputStream.peekByte(ObjectInputStream.java:2608)</logstring>  
+    <logstring date="2016-06-08" time="02:31:32">at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1319)</logstring>  
+    <logstring date="2016-06-08" time="02:31:32">at java.io.ObjectInputStream.readObject(ObjectInputStream.java:371)</logstring>  
+    <logstring date="2016-06-08" time="02:31:32">at dataservice.DateServer.run(DateServer.java:39)</logstring>  
+    <logstring date="2016-06-08" time="02:31:32">下线</logstring>  
+    <logstring date="2016-06-08" time="02:31:32">java.io.EOFException</logstring>  
+    <logstring date="2016-06-08" time="02:31:33">at java.io.ObjectInputStream$BlockDataInputStream.peekByte(ObjectInputStream.java:2608)</logstring>  
+    <logstring date="2016-06-08" time="02:31:33">at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1319)</logstring>  
+    <logstring date="2016-06-08" time="02:31:33">at java.io.ObjectInputStream.readObject(ObjectInputStream.java:371)</logstring>  
+    <logstring date="2016-06-08" time="02:31:33">at dataservice.DateServer.run(DateServer.java:39)</logstring>  
+    <logstring date="2016-06-08" time="02:31:34">admin已下线</logstring>  
+    <logstring date="2016-06-08" time="02:31:34">java.net.SocketException: Broken pipe</logstring>  
+    <logstring date="2016-06-08" time="02:31:34">at java.net.SocketOutputStream.socketWrite0(Native Method)</logstring>  
+    <logstring date="2016-06-08" time="02:31:34">at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:109)</logstring>  
+    <logstring date="2016-06-08" time="02:31:34">at java.net.SocketOutputStream.write(SocketOutputStream.java:153)</logstring>  
+    <logstring date="2016-06-08" time="02:31:34">at java.io.ObjectOutputStream$BlockDataOutputStream.drain(ObjectOutputStream.java:1877)</logstring>  
+    <logstring date="2016-06-08" time="02:31:34">at java.io.ObjectOutputStream$BlockDataOutputStream.setBlockDataMode(ObjectOutputStream.java:1786)</logstring>  
+    <logstring date="2016-06-08" time="02:31:34">at java.io.ObjectOutputStream.writeNonProxyDesc(ObjectOutputStream.java:1286)</logstring>  
+    <logstring date="2016-06-08" time="02:31:34">at java.io.ObjectOutputStream.writeClassDesc(ObjectOutputStream.java:1231)</logstring>  
+    <logstring date="2016-06-08" time="02:31:35">at java.io.ObjectOutputStream.writeOrdinaryObject(ObjectOutputStream.java:1427)</logstring>  
+    <logstring date="2016-06-08" time="02:31:35">at java.io.ObjectOutputStream.writeObject0(ObjectOutputStream.java:1178)</logstring>  
+    <logstring date="2016-06-08" time="02:31:35">at java.io.ObjectOutputStream.writeFatalException(ObjectOutputStream.java:1577)</logstring>  
+    <logstring date="2016-06-08" time="02:31:35">at java.io.ObjectOutputStream.writeObject(ObjectOutputStream.java:351)</logstring>  
+    <logstring date="2016-06-08" time="02:31:35">at friendstate.SendFriendInfo.sendFriendInfoToSocket(SendFriendInfo.java:72)</logstring>  
+    <logstring date="2016-06-08" time="02:31:35">at friendstate.SendFriendInfo.run(SendFriendInfo.java:56)</logstring>  
+    <logstring date="2016-06-08" time="02:31:35">bppleman已下线</logstring>  
+    <logstring date="2016-06-08" time="13:20:30">admin可以登录</logstring>  
+    <logstring date="2016-06-08" time="13:20:30">成功向admin发送好友列表</logstring>  
+    <logstring date="2016-06-08" time="13:20:48">bppleman可以登录</logstring>  
+    <logstring date="2016-06-08" time="13:20:48">成功向bppleman发送好友列表</logstring>  
+    <logstring date="2016-06-08" time="13:21:44">下线</logstring>  
+    <logstring date="2016-06-08" time="13:21:44">java.io.EOFException</logstring>  
+    <logstring date="2016-06-08" time="13:21:44">at java.io.ObjectInputStream$BlockDataInputStream.peekByte(ObjectInputStream.java:2608)</logstring>  
+    <logstring date="2016-06-08" time="13:21:44">at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1319)</logstring>  
+    <logstring date="2016-06-08" time="13:21:44">at java.io.ObjectInputStream.readObject(ObjectInputStream.java:371)</logstring>  
+    <logstring date="2016-06-08" time="13:21:44">at dataservice.DateServer.run(DateServer.java:39)</logstring>  
+    <logstring date="2016-06-08" time="13:21:46">下线</logstring>  
+    <logstring date="2016-06-08" time="13:21:46">java.io.EOFException</logstring>  
+    <logstring date="2016-06-08" time="13:21:46">at java.io.ObjectInputStream$BlockDataInputStream.peekByte(ObjectInputStream.java:2608)</logstring>  
+    <logstring date="2016-06-08" time="13:21:46">at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1319)</logstring>  
+    <logstring date="2016-06-08" time="13:21:46">at java.io.ObjectInputStream.readObject(ObjectInputStream.java:371)</logstring>  
+    <logstring date="2016-06-08" time="13:21:46">at dataservice.DateServer.run(DateServer.java:39)</logstring>  
+    <logstring date="2016-06-08" time="13:21:48">admin已下线</logstring>  
+    <logstring date="2016-06-08" time="13:21:48">java.net.SocketException: Broken pipe</logstring>  
+    <logstring date="2016-06-08" time="13:21:48">at java.net.SocketOutputStream.socketWrite0(Native Method)</logstring>  
+    <logstring date="2016-06-08" time="13:21:48">at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:109)</logstring>  
+    <logstring date="2016-06-08" time="13:21:48">at java.net.SocketOutputStream.write(SocketOutputStream.java:153)</logstring>  
+    <logstring date="2016-06-08" time="13:21:48">at java.io.ObjectOutputStream$BlockDataOutputStream.drain(ObjectOutputStream.java:1877)</logstring>  
+    <logstring date="2016-06-08" time="13:21:48">at java.io.ObjectOutputStream$BlockDataOutputStream.setBlockDataMode(ObjectOutputStream.java:1786)</logstring>  
+    <logstring date="2016-06-08" time="13:21:48">at java.io.ObjectOutputStream.writeNonProxyDesc(ObjectOutputStream.java:1286)</logstring>  
+    <logstring date="2016-06-08" time="13:21:48">at java.io.ObjectOutputStream.writeClassDesc(ObjectOutputStream.java:1231)</logstring>  
+    <logstring date="2016-06-08" time="13:21:48">at java.io.ObjectOutputStream.writeOrdinaryObject(ObjectOutputStream.java:1427)</logstring>  
+    <logstring date="2016-06-08" time="13:21:48">at java.io.ObjectOutputStream.writeObject0(ObjectOutputStream.java:1178)</logstring>  
+    <logstring date="2016-06-08" time="13:21:48">at java.io.ObjectOutputStream.writeFatalException(ObjectOutputStream.java:1577)</logstring>  
+    <logstring date="2016-06-08" time="13:21:48">at java.io.ObjectOutputStream.writeObject(ObjectOutputStream.java:351)</logstring>  
+    <logstring date="2016-06-08" time="13:21:48">at friendstate.SendFriendInfo.sendFriendInfoToSocket(SendFriendInfo.java:72)</logstring>  
+    <logstring date="2016-06-08" time="13:21:48">at friendstate.SendFriendInfo.run(SendFriendInfo.java:56)</logstring>  
+    <logstring date="2016-06-08" time="13:21:50">bppleman已下线</logstring>  
+    <logstring date="2016-06-08" time="21:32:51">admin可以登录</logstring>  
+    <logstring date="2016-06-08" time="21:32:52">成功向admin发送好友列表</logstring>  
+    <logstring date="2016-06-08" time="21:33:08">bppleman可以登录</logstring>  
+    <logstring date="2016-06-08" time="21:33:08">成功向bppleman发送好友列表</logstring>  
+    <logstring date="2016-06-08" time="21:33:48">下线</logstring>  
+    <logstring date="2016-06-08" time="21:33:48">java.io.EOFException</logstring>  
+    <logstring date="2016-06-08" time="21:33:48">at java.io.ObjectInputStream$BlockDataInputStream.peekByte(ObjectInputStream.java:2608)</logstring>  
+    <logstring date="2016-06-08" time="21:33:48">at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1319)</logstring>  
+    <logstring date="2016-06-08" time="21:33:48">at java.io.ObjectInputStream.readObject(ObjectInputStream.java:371)</logstring>  
+    <logstring date="2016-06-08" time="21:33:48">at dataservice.DateServer.run(DateServer.java:39)</logstring>  
+    <logstring date="2016-06-08" time="21:33:49">下线</logstring>  
+    <logstring date="2016-06-08" time="21:33:49">java.io.EOFException</logstring>  
+    <logstring date="2016-06-08" time="21:33:49">at java.io.ObjectInputStream$BlockDataInputStream.peekByte(ObjectInputStream.java:2608)</logstring>  
+    <logstring date="2016-06-08" time="21:33:49">at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1319)</logstring>  
+    <logstring date="2016-06-08" time="21:33:49">at java.io.ObjectInputStream.readObject(ObjectInputStream.java:371)</logstring>  
+    <logstring date="2016-06-08" time="21:33:49">at dataservice.DateServer.run(DateServer.java:39)</logstring>  
+    <logstring date="2016-06-08" time="21:33:50">bppleman已下线</logstring>  
+    <logstring date="2016-06-08" time="21:33:50">java.net.SocketException: Broken pipe</logstring>  
+    <logstring date="2016-06-08" time="21:33:50">at java.net.SocketOutputStream.socketWrite0(Native Method)</logstring>  
+    <logstring date="2016-06-08" time="21:33:50">at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:109)</logstring>  
+    <logstring date="2016-06-08" time="21:33:50">at java.net.SocketOutputStream.write(SocketOutputStream.java:153)</logstring>  
+    <logstring date="2016-06-08" time="21:33:50">at java.io.ObjectOutputStream$BlockDataOutputStream.drain(ObjectOutputStream.java:1877)</logstring>  
+    <logstring date="2016-06-08" time="21:33:50">at java.io.ObjectOutputStream$BlockDataOutputStream.setBlockDataMode(ObjectOutputStream.java:1786)</logstring>  
+    <logstring date="2016-06-08" time="21:33:50">at java.io.ObjectOutputStream.writeNonProxyDesc(ObjectOutputStream.java:1286)</logstring>  
+    <logstring date="2016-06-08" time="21:33:50">at java.io.ObjectOutputStream.writeClassDesc(ObjectOutputStream.java:1231)</logstring>  
+    <logstring date="2016-06-08" time="21:33:50">at java.io.ObjectOutputStream.writeOrdinaryObject(ObjectOutputStream.java:1427)</logstring>  
+    <logstring date="2016-06-08" time="21:33:50">at java.io.ObjectOutputStream.writeObject0(ObjectOutputStream.java:1178)</logstring>  
+    <logstring date="2016-06-08" time="21:33:50">at java.io.ObjectOutputStream.writeFatalException(ObjectOutputStream.java:1577)</logstring>  
+    <logstring date="2016-06-08" time="21:33:50">at java.io.ObjectOutputStream.writeObject(ObjectOutputStream.java:351)</logstring>  
+    <logstring date="2016-06-08" time="21:33:50">at friendstate.SendFriendInfo.sendFriendInfoToSocket(SendFriendInfo.java:72)</logstring>  
+    <logstring date="2016-06-08" time="21:33:50">at friendstate.SendFriendInfo.run(SendFriendInfo.java:56)</logstring>  
+    <logstring date="2016-06-08" time="21:33:52">admin已下线</logstring>  
+    <logstring date="2016-06-10" time="20:25:21">admin可以登录</logstring>  
+    <logstring date="2016-06-10" time="20:25:21">成功向admin发送好友列表</logstring>  
+    <logstring date="2016-06-10" time="20:25:35">下线</logstring>  
+    <logstring date="2016-06-10" time="20:25:35">java.io.EOFException</logstring>  
+    <logstring date="2016-06-10" time="20:25:35">at java.io.ObjectInputStream$BlockDataInputStream.peekByte(ObjectInputStream.java:2608)</logstring>  
+    <logstring date="2016-06-10" time="20:25:35">at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1319)</logstring>  
+    <logstring date="2016-06-10" time="20:25:36">at java.io.ObjectInputStream.readObject(ObjectInputStream.java:371)</logstring>  
+    <logstring date="2016-06-10" time="20:25:36">at dataservice.DateServer.run(DateServer.java:39)</logstring>  
+    <logstring date="2016-06-10" time="20:25:39">admin已下线</logstring>  
+    <logstring date="2016-06-10" time="20:27:56">admin可以登录</logstring>  
+    <logstring date="2016-06-10" time="20:27:57">org.dom4j.DocumentException: Error on line 1 of document file:///Users/BppleMan/Documents/workspace/BChatServer/Source/admin/UserInfo.xml : XML 文档结构必须从头至尾包含在同一个实体内。 Nested exception: XML 文档结构必须从头至尾包含在同一个实体内。</logstring>  
+    <logstring date="2016-06-10" time="20:27:57">at org.dom4j.io.SAXReader.read(SAXReader.java:482)</logstring>  
+    <logstring date="2016-06-10" time="20:27:57">at org.dom4j.io.SAXReader.read(SAXReader.java:264)</logstring>  
+    <logstring date="2016-06-10" time="20:27:57">at datamanege.DataManege.getUserFriends(DataManege.java:57)</logstring>  
+    <logstring date="2016-06-10" time="20:27:57">at friendstate.SendFriendInfo.run(SendFriendInfo.java:47)</logstring>  
+    <logstring date="2016-06-10" time="20:27:57">成功向admin发送好友列表</logstring>  
+    <logstring date="2016-06-10" time="20:27:57">Nested exception:</logstring>  
+    <logstring date="2016-06-10" time="20:27:57">org.xml.sax.SAXParseException; systemId: file:///Users/BppleMan/Documents/workspace/BChatServer/Source/admin/UserInfo.xml; lineNumber: 1; columnNumber: 33; XML 文档结构必须从头至尾包含在同一个实体内。</logstring>  
+    <logstring date="2016-06-10" time="20:27:57">at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:203)</logstring>  
+    <logstring date="2016-06-10" time="20:27:57">at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:177)</logstring>  
+    <logstring date="2016-06-10" time="20:27:57">at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:441)</logstring>  
+    <logstring date="2016-06-10" time="20:27:57">at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:368)</logstring>  
+    <logstring date="2016-06-10" time="20:27:57">at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1437)</logstring>  
+    <logstring date="2016-06-10" time="20:27:57">at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.endEntity(XMLDocumentFragmentScannerImpl.java:903)</logstring>  
+    <logstring date="2016-06-10" time="20:27:57">at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.endEntity(XMLDocumentScannerImpl.java:563)</logstring>  
+    <logstring date="2016-06-10" time="20:27:57">at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.endEntity(XMLEntityManager.java:1394)</logstring>  
+    <logstring date="2016-06-10" time="20:27:57">at com.sun.org.apache.xerces.internal.impl.XMLEntityScanner.load(XMLEntityScanner.java:1764)</logstring>  
+    <logstring date="2016-06-10" time="20:27:58">at com.sun.org.apache.xerces.internal.impl.XMLEntityScanner.scanLiteral(XMLEntityScanner.java:1059)</logstring>  
+    <logstring date="2016-06-10" time="20:27:58">at com.sun.org.apache.xerces.internal.impl.XMLScanner.scanPseudoAttribute(XMLScanner.java:622)</logstring>  
+    <logstring date="2016-06-10" time="20:27:58">at com.sun.org.apache.xerces.internal.impl.XMLScanner.scanXMLDeclOrTextDecl(XMLScanner.java:435)</logstring>  
+    <logstring date="2016-06-10" time="20:27:58">at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanXMLDeclOrTextDecl(XMLDocumentFragmentScannerImpl.java:952)</logstring>  
+    <logstring date="2016-06-10" time="20:27:58">at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$XMLDeclDriver.next(XMLDocumentScannerImpl.java:774)</logstring>  
+    <logstring date="2016-06-10" time="20:27:58">at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)</logstring>  
+    <logstring date="2016-06-10" time="20:27:58">at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:117)</logstring>  
+    <logstring date="2016-06-10" time="20:27:58">at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:452)</logstring>  
+    <logstring date="2016-06-10" time="20:27:58">at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)</logstring>  
+    <logstring date="2016-06-10" time="20:27:58">at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)</logstring>  
+    <logstring date="2016-06-10" time="20:27:58">at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)</logstring>  
+    <logstring date="2016-06-10" time="20:27:58">at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)</logstring>  
+    <logstring date="2016-06-10" time="20:27:58">at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:649)</logstring>  
+    <logstring date="2016-06-10" time="20:27:58">at org.dom4j.io.SAXReader.read(SAXReader.java:465)</logstring>  
+    <logstring date="2016-06-10" time="20:27:58">at org.dom4j.io.SAXReader.read(SAXReader.java:264)</logstring>  
+    <logstring date="2016-06-10" time="20:27:58">at datamanege.DataManege.getUserFriends(DataManege.java:57)</logstring>  
+    <logstring date="2016-06-10" time="20:27:58">at friendstate.SendFriendInfo.run(SendFriendInfo.java:47)</logstring>  
+    <logstring date="2016-06-10" time="20:28:02">下线</logstring>  
+    <logstring date="2016-06-10" time="20:28:02">java.io.EOFException</logstring>  
+    <logstring date="2016-06-10" time="20:28:02">at java.io.ObjectInputStream$BlockDataInputStream.peekByte(ObjectInputStream.java:2608)</logstring>  
+    <logstring date="2016-06-10" time="20:28:02">at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1319)</logstring>  
+    <logstring date="2016-06-10" time="20:28:02">at java.io.ObjectInputStream.readObject(ObjectInputStream.java:371)</logstring>  
+    <logstring date="2016-06-10" time="20:28:02">at dataservice.DateServer.run(DateServer.java:39)</logstring>  
+    <logstring date="2016-06-10" time="20:28:05">admin已下线</logstring>  
+    <logstring date="2016-06-10" time="20:28:20">admin可以登录</logstring>  
+    <logstring date="2016-06-10" time="20:28:20">成功向admin发送好友列表</logstring>  
+    <logstring date="2016-06-10" time="20:28:28">下线</logstring>  
+    <logstring date="2016-06-10" time="20:28:28">java.io.EOFException</logstring>  
+    <logstring date="2016-06-10" time="20:28:28">at java.io.ObjectInputStream$BlockDataInputStream.peekByte(ObjectInputStream.java:2608)</logstring>  
+    <logstring date="2016-06-10" time="20:28:28">at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1319)</logstring>  
+    <logstring date="2016-06-10" time="20:28:28">at java.io.ObjectInputStream.readObject(ObjectInputStream.java:371)</logstring>  
+    <logstring date="2016-06-10" time="20:28:28">at dataservice.DateServer.run(DateServer.java:39)</logstring>  
+    <logstring date="2016-06-10" time="20:28:30">admin已下线</logstring>  
+    <logstring date="2016-06-10" time="22:40:42">admin可以登录</logstring>  
+    <logstring date="2016-06-10" time="22:40:42">成功向admin发送好友列表</logstring>  
+    <logstring date="2016-06-10" time="22:41:16">下线</logstring>  
+    <logstring date="2016-06-10" time="22:41:16">java.io.EOFException</logstring>  
+    <logstring date="2016-06-10" time="22:41:16">at java.io.ObjectInputStream$BlockDataInputStream.peekByte(ObjectInputStream.java:2608)</logstring>  
+    <logstring date="2016-06-10" time="22:41:16">at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1319)</logstring>  
+    <logstring date="2016-06-10" time="22:41:16">at java.io.ObjectInputStream.readObject(ObjectInputStream.java:371)</logstring>  
+    <logstring date="2016-06-10" time="22:41:16">at dataservice.DateServer.run(DateServer.java:39)</logstring>  
+    <logstring date="2016-06-10" time="22:41:18">admin已下线</logstring>  
+    <logstring date="2016-06-10" time="22:42:15">成功添加成员:hello</logstring>  
+    <logstring date="2016-06-10" time="22:42:17">成功删除成员:hello</logstring>  
+    <logstring date="2016-06-10" time="22:42:31">admin可以登录</logstring>  
+    <logstring date="2016-06-10" time="22:42:31">org.dom4j.DocumentException: Error on line 1 of document file:///Users/BppleMan/Documents/workspace/BChatServer/Source/admin/UserInfo.xml : 文件提前结束。 Nested exception: 文件提前结束。</logstring>  
+    <logstring date="2016-06-10" time="22:42:32">at org.dom4j.io.SAXReader.read(SAXReader.java:482)</logstring>  
+    <logstring date="2016-06-10" time="22:42:32">at org.dom4j.io.SAXReader.read(SAXReader.java:264)</logstring>  
+    <logstring date="2016-06-10" time="22:42:32">at datamanege.DataManege.getUserFriends(DataManege.java:57)</logstring>  
+    <logstring date="2016-06-10" time="22:42:32">at friendstate.SendFriendInfo.run(SendFriendInfo.java:47)</logstring>  
+    <logstring date="2016-06-10" time="22:42:32">成功向admin发送好友列表</logstring>  
+    <logstring date="2016-06-10" time="22:42:32">Nested exception:</logstring>  
+    <logstring date="2016-06-10" time="22:42:32">org.xml.sax.SAXParseException; systemId: file:///Users/BppleMan/Documents/workspace/BChatServer/Source/admin/UserInfo.xml; lineNumber: 1; columnNumber: 1; 文件提前结束。</logstring>  
+    <logstring date="2016-06-10" time="22:42:32">at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:203)</logstring>  
+    <logstring date="2016-06-10" time="22:42:32">at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:177)</logstring>  
+    <logstring date="2016-06-10" time="22:42:32">at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:441)</logstring>  
+    <logstring date="2016-06-10" time="22:42:32">at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:368)</logstring>  
+    <logstring date="2016-06-10" time="22:42:32">at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1437)</logstring>  
+    <logstring date="2016-06-10" time="22:42:32">at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:1019)</logstring>  
+    <logstring date="2016-06-10" time="22:42:33">at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)</logstring>  
+    <logstring date="2016-06-10" time="22:42:33">at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:117)</logstring>  
+    <logstring date="2016-06-10" time="22:42:33">at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)</logstring>  
+    <logstring date="2016-06-10" time="22:42:33">at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)</logstring>  
+    <logstring date="2016-06-10" time="22:42:33">at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)</logstring>  
+    <logstring date="2016-06-10" time="22:42:33">at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)</logstring>  
+    <logstring date="2016-06-10" time="22:42:33">at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)</logstring>  
+    <logstring date="2016-06-10" time="22:42:33">at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:649)</logstring>  
+    <logstring date="2016-06-10" time="22:42:33">at org.dom4j.io.SAXReader.read(SAXReader.java:465)</logstring>  
+    <logstring date="2016-06-10" time="22:42:33">at org.dom4j.io.SAXReader.read(SAXReader.java:264)</logstring>  
+    <logstring date="2016-06-10" time="22:42:33">at datamanege.DataManege.getUserFriends(DataManege.java:57)</logstring>  
+    <logstring date="2016-06-10" time="22:42:33">at friendstate.SendFriendInfo.run(SendFriendInfo.java:47)</logstring>  
+    <logstring date="2016-06-10" time="22:42:46">下线</logstring>  
+    <logstring date="2016-06-10" time="22:42:46">java.io.EOFException</logstring>  
+    <logstring date="2016-06-10" time="22:42:46">at java.io.ObjectInputStream$BlockDataInputStream.peekByte(ObjectInputStream.java:2608)</logstring>  
+    <logstring date="2016-06-10" time="22:42:46">at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1319)</logstring>  
+    <logstring date="2016-06-10" time="22:42:46">at java.io.ObjectInputStream.readObject(ObjectInputStream.java:371)</logstring>  
+    <logstring date="2016-06-10" time="22:42:46">at dataservice.DateServer.run(DateServer.java:39)</logstring>  
+    <logstring date="2016-06-10" time="22:42:49">admin已下线</logstring>  
+    <logstring date="2016-06-10" time="22:43:33">成功添加成员:hello</logstring>  
+    <logstring date="2016-06-10" time="22:43:35">成功删除成员:hello</logstring>  
+    <logstring date="2016-06-10" time="22:43:53">admin可以登录</logstring>  
+    <logstring date="2016-06-10" time="22:43:53">成功向admin发送好友列表</logstring>  
+    <logstring date="2016-06-10" time="22:44:09">bppleman可以登录</logstring>  
+    <logstring date="2016-06-10" time="22:44:09">成功向bppleman发送好友列表</logstring>  
+    <logstring date="2016-06-10" time="23:20:08">下线</logstring>  
+    <logstring date="2016-06-10" time="23:20:08">java.io.EOFException</logstring>  
+    <logstring date="2016-06-10" time="23:20:08">at java.io.ObjectInputStream$BlockDataInputStream.peekByte(ObjectInputStream.java:2608)</logstring>  
+    <logstring date="2016-06-10" time="23:20:08">at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1319)</logstring>  
+    <logstring date="2016-06-10" time="23:20:08">at java.io.ObjectInputStream.readObject(ObjectInputStream.java:371)</logstring>  
+    <logstring date="2016-06-10" time="23:20:08">at dataservice.DateServer.run(DateServer.java:39)</logstring>  
+    <logstring date="2016-06-10" time="23:20:09">下线</logstring>  
+    <logstring date="2016-06-10" time="23:20:10">java.io.EOFException</logstring>  
+    <logstring date="2016-06-10" time="23:20:10">at java.io.ObjectInputStream$BlockDataInputStream.peekByte(ObjectInputStream.java:2608)</logstring>  
+    <logstring date="2016-06-10" time="23:20:10">at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1319)</logstring>  
+    <logstring date="2016-06-10" time="23:20:10">at java.io.ObjectInputStream.readObject(ObjectInputStream.java:371)</logstring>  
+    <logstring date="2016-06-10" time="23:20:10">at dataservice.DateServer.run(DateServer.java:39)</logstring>  
+    <logstring date="2016-06-10" time="23:20:11">admin已下线</logstring>  
+    <logstring date="2016-06-10" time="23:20:11">java.net.SocketException: Broken pipe</logstring>  
+    <logstring date="2016-06-10" time="23:20:11">at java.net.SocketOutputStream.socketWrite0(Native Method)</logstring>  
+    <logstring date="2016-06-10" time="23:20:11">at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:109)</logstring>  
+    <logstring date="2016-06-10" time="23:20:11">at java.net.SocketOutputStream.write(SocketOutputStream.java:153)</logstring>  
+    <logstring date="2016-06-10" time="23:20:11">at java.io.ObjectOutputStream$BlockDataOutputStream.drain(ObjectOutputStream.java:1877)</logstring>  
+    <logstring date="2016-06-10" time="23:20:11">at java.io.ObjectOutputStream$BlockDataOutputStream.setBlockDataMode(ObjectOutputStream.java:1786)</logstring>  
+    <logstring date="2016-06-10" time="23:20:11">at java.io.ObjectOutputStream.writeNonProxyDesc(ObjectOutputStream.java:1286)</logstring>  
+    <logstring date="2016-06-10" time="23:20:11">at java.io.ObjectOutputStream.writeClassDesc(ObjectOutputStream.java:1231)</logstring>  
+    <logstring date="2016-06-10" time="23:20:11">at java.io.ObjectOutputStream.writeOrdinaryObject(ObjectOutputStream.java:1427)</logstring>  
+    <logstring date="2016-06-10" time="23:20:11">at java.io.ObjectOutputStream.writeObject0(ObjectOutputStream.java:1178)</logstring>  
+    <logstring date="2016-06-10" time="23:20:11">at java.io.ObjectOutputStream.writeFatalException(ObjectOutputStream.java:1577)</logstring>  
+    <logstring date="2016-06-10" time="23:20:11">at java.io.ObjectOutputStream.writeObject(ObjectOutputStream.java:351)</logstring>  
+    <logstring date="2016-06-10" time="23:20:11">at friendstate.SendFriendInfo.sendFriendInfoToSocket(SendFriendInfo.java:72)</logstring>  
+    <logstring date="2016-06-10" time="23:20:11">at friendstate.SendFriendInfo.run(SendFriendInfo.java:56)</logstring>  
+    <logstring date="2016-06-10" time="23:20:13">bppleman已下线</logstring>
 </log>

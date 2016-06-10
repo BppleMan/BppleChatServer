@@ -2,22 +2,19 @@ package talkservice;
 
 import java.io.IOException;
 import java.io.ObjectInputStream;
-import java.io.ObjectOutputStream;
 
 import data.TalkInfo;
 
-public class InputThread extends Thread
+public class ReceiveTalkInfo extends Thread
 {
 	private TalkInfo talkInfo = null;
 	private TalkInfoBuff talkInfoBuff = null;
-	private ObjectOutputStream oos = null;
 	private ObjectInputStream ois = null;
 
-	public InputThread(TalkInfoBuff talkInfoBuff, ObjectInputStream ois, ObjectOutputStream oos)
+	public ReceiveTalkInfo(TalkInfoBuff talkInfoBuff, ObjectInputStream ois)
 	{
 		this.talkInfoBuff = talkInfoBuff;
 		this.ois = ois;
-		this.oos = oos;
 	}
 
 	@Override
